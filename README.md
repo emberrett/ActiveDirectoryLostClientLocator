@@ -8,4 +8,4 @@ This PowerShell script iterates through computers whose <strong>ManagedBy</stron
 <br>-IPv4 (IPv4 Address)
 <br>-OS (Operating System)
 
-The results are sorted by Status, the LastLogon
+The results are sorted by Status, then LastLogon.
